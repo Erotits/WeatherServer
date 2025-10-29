@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+libs/HTTPServer/HTTPServerConnection.c
+Makefile
+server
+.vscode/settings.json
+client
+Makefile
